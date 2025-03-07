@@ -4,7 +4,4 @@ pandas
 scikit-learn
 matplot
 seaborn
-plotly
-xgboost
 nltk
-pickle
