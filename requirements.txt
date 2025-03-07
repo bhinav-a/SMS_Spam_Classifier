@@ -5,4 +5,3 @@ scikit-learn
 matplot
 seaborn
 nltk
-nltk.download('punkt_tab')
